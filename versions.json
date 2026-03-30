@@ -5,7 +5,7 @@
 	"omnia": "A.03.31",
 	"oscilloscope": "A.02.17",
 	"cma180": "A.00.00",
-	"psu_test": "A.00.47",
+	"psu_test": "A.00.48",
 	"ni-9219": "A.00.02",
 	"lisn_test": "A.02.01",
 	"r8000": "A.01.13",
@@ -14,7 +14,7 @@
 	"yokogawa_wt": "A.01.06",
 	"template_finder": "A.00.24",
 	"Fluke 190 Test Control": "A.00.03",
-	"Ag33250APanel": "A.00.07",
+	"Ag33250APanel": "A.00.08",
 	"temperature_log_viewer": "A.00.00"  
   }
 }
