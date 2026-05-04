@@ -15,6 +15,7 @@
 	"template_finder": "A.00.24",
 	"Fluke 190 Test Control": "A.00.03",
 	"Ag33250APanel": "A.00.08",
-	"temperature_log_viewer": "A.00.00"  
+	"temperature_log_viewer": "A.00.00",  
+	"fluke_5730a_control": "A.00.00"
   }
 }
