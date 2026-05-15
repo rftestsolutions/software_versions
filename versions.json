@@ -3,7 +3,7 @@
   "applications": {
     "updater_test": "A.00.00",
 	"omnia": "A.04.02",
-	"oscilloscope": "A.02.19",
+	"oscilloscope": "A.02.20",
 	"cma180": "A.00.00",
 	"psu_test": "A.00.48",
 	"ni-9219": "A.00.02",
@@ -16,7 +16,7 @@
 	"Fluke 190 Test Control": "A.00.03",
 	"Ag33250APanel": "A.00.08",
 	"temperature_log_viewer": "A.00.00",  
-	"fluke_5730a_control": "A.00.00",
+	"fluke_5730a_control": "A.00.01",
 	"dmm_test": "A.00.01"
   }
 }
