@@ -7,7 +7,7 @@
 	"cma180": "A.00.00",
 	"psu_test": "A.01.00",
 	"ni-9219": "A.00.03",
-	"lisn_test": "A.02.02",
+	"lisn_test": "A.02.03",
 	"r8000": "A.01.13",
 	"thermocouples": "A.01.13",
 	"current_probes": "A.00.06",
