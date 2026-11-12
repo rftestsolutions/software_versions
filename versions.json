@@ -18,7 +18,7 @@
 	"temperature_log_viewer": "A.00.00",  
 	"fluke_5730a_control": "A.00.02",
 	"dmm_test": "A.00.03",
-	"dmm_read": "A.00.02",
+	"dmm_read": "A.00.04",
     "MR6000_gui": "A.00.01"
   }
 }
