@@ -19,6 +19,7 @@
 	"fluke_5730a_control": "A.00.02",
 	"dmm_test": "A.00.03",
 	"dmm_read": "A.00.04",
-    "MR6000_gui": "A.00.01"
+    "MR6000_gui": "A.00.01",
+	"signal generator": "A.00.05"
   }
 }
